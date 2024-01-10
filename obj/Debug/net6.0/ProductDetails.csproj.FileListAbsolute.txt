@@ -12,3 +12,4 @@ C:\Mphasis\Simplilearn\Phase4\day4\ProductDetails\ProductDetails\obj\Debug\net6.
 C:\Mphasis\Simplilearn\Phase4\day4\ProductDetails\ProductDetails\obj\Debug\net6.0\ProductDetails.pdb
 C:\Mphasis\Simplilearn\Phase4\day4\ProductDetails\ProductDetails\obj\Debug\net6.0\ProductDetails.genruntimeconfig.cache
 C:\Mphasis\Simplilearn\Phase4\day4\ProductDetails\ProductDetails\obj\Debug\net6.0\ref\ProductDetails.dll
+C:\Mphasis\Simplilearn\Phase4\day4\ProductDetails\ProductDetails\obj\Debug\net6.0\ProductDetails.sourcelink.json
